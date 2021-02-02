@@ -1,0 +1,8 @@
+200:
+  'Success'
+400:
+  'Not found'
+401:
+  'Authentication failed!'
+404:
+  'Invalid request'
